@@ -1,0 +1,14 @@
+147
+tran dai tai;
+khong ro;
+cao to;
+ho, noi tieng trung quoc;
+cat tien;
+---
+147
+tran dai tai;
+khong ro;
+cao, to;
+ho, noi tieng trung quoc;
+cat tien;
+---

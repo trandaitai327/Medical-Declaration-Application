@@ -1,0 +1,45 @@
+251252376
+tai;
+2000
+gia vien;
+0977747445
+3
+2
+25:tai_nha;23:tien_hoang;
+---
+21254215
+loc;
+2005
+cat tien;
+9369958
+0
+1
+25:ngu;
+---
+936995
+tai;
+2008
+tien hoang;
+13546515
+2
+2
+15:sai_gon;12:nha;
+---
+987
+lan;
+1999
+ha noi;
+31546815
+4
+4
+5:my;4:phap;3:ha_lan;2:phan_lan;
+---
+147
+tran dai tai;
+2000
+cat tien;
+09777433525
+3
+2
+26:thiem tay;78:gia lam;
+---
